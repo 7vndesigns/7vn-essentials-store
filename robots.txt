@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /backend/
+Sitemap: https://7vn-essentials-store.pages.dev/sitemap.xml
