@@ -1,0 +1,13 @@
+name = "7vn-essentials-api"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+
+[vars]
+STORE_ORIGIN = "https://7vn-essentials-store.pages.dev"
+SUPPLIER_ADAPTER = "unconfigured"
+CHECKOUT_ENABLED = "false"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "7vn-essentials-db"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
